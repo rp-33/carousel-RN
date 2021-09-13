@@ -19,7 +19,7 @@
 
 - Physical device 
 
-[![Alt text](https://www.youtube.com/watch?v=tlzJzGEWtcE)
+[![Alt text](https://res.cloudinary.com/dcds5nieu/image/upload/v1631553242/Screenshot_20210913-122654_thdihl.png)](https://www.youtube.com/watch?v=tlzJzGEWtcE)
 
 # License
 
